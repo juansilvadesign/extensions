@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="Awesome Browser Extensions Logo" width="128" height="128">
+  <img src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="Awesome" width="500" height="350">
 
   # 🎨 Awesome Browser Extensions
   
