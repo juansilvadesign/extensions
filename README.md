@@ -143,54 +143,53 @@
 | **[Instant Data Scraper](https://instantdata.eu/)** | Extracts data from web pages and exports it as Excel or CSV files | <a href="https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/instant-data-scraper-reboot/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/instant-data-scraper/onnjkaofddpgfmbcnbnfacjacjamelfa"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 | **[Web Scraper](https://webscraper.io/)** | Free web data extraction tool with an easy point-and-click interface | <a href="https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/web-scraper/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/web-scraper-free-web-sc/jfmdjnnfminejadhegajcjbpgjofnkaj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
-- [Growman](https://chromewebstore.google.com/detail/growman-ig-email-extracto/hndnabgpcmhdmaejoapophbidipmgnpb) | Extract Emails from IG based on followers/followings, locations, and hashtags.
-- [Exportador de Números de Grupos do WA](https://chromewebstore.google.com/detail/exportador-de-n%C3%BAmeros-de/mbmldhpfnohbacbljfnjnmhfmecndfjp).
-- [WhatsApp Group Scraper](https://chromewebstore.google.com/detail/whatsapp-group-scraper-jo/flghhnkgbpmbliapbejejdepagkebcgn) | Joiner & Sender & Contact Saver.
-- [Find WhatsApp Link](https://chromewebstore.google.com/detail/find-whatsapp-link-group/lfepbhhhpfohfckldbjoohmplpebdmnd) | Group Invite Link.
+| [Growman](https://chromewebstore.google.com/detail/growman-ig-email-extracto/hndnabgpcmhdmaejoapophbidipmgnpb) | Extract Emails from IG based on followers/followings, locations, and hashtags.
+| [Exportador de Números de Grupos do WA](https://chromewebstore.google.com/detail/exportador-de-n%C3%BAmeros-de/mbmldhpfnohbacbljfnjnmhfmecndfjp).
+| [WhatsApp Group Scraper](https://chromewebstore.google.com/detail/whatsapp-group-scraper-jo/flghhnkgbpmbliapbejejdepagkebcgn) | Joiner & Sender & Contact Saver |
+| [Find WhatsApp Link](https://chromewebstore.google.com/detail/find-whatsapp-link-group/lfepbhhhpfohfckldbjoohmplpebdmnd) | Group Invite Link |
 
 ### Web Inspect
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-- [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) | Show multiple screens once, Responsive design tester.
-- [Wappalyzer](https://www.wappalyzer.com) | Identify technologies on websites.
-- [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) | Customize any website visually.
-- [CSS Peeper](https://chromewebstore.google.com/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | Extract CSS and build beautiful style guides.
-- [SVG Grab Pro](https://chromewebstore.google.com/detail/svg-grab-pro/dcojkoaanbhlnealhdcdjbcoaokkngch) | Easily grab SVG logos from any website.
-    - [GitHub](https://github.com/ash-uxi/svg-grab-pro).
-- [Fonts Ninja](https://fonts.ninja) | Discover awesome typefaces and build your  font collection.
-- [ColorPick Eyedropper](https://chromewebstore.google.com/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) | A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.
-- [Page Ruler](https://chromewebstore.google.com/detail/page-ruler/jcbmcnpepaddcedmjdcmhbekjhbfnlff) | Measure page elements size in pixel with an easy-to-use ruler.
-- [JSON Viewer Pro](https://chromewebstore.google.com/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc) | A completely free extension to visualize JSON response in awesome Tree and Chart view with great user experience and options.
+| [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) | Show multiple screens once, Responsive design tester |
+| [Wappalyzer](https://www.wappalyzer.com) | Identify technologies on websites |
+| [Visual CSS Editor](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) | Customize any website visually |
+| [CSS Peeper](https://chromewebstore.google.com/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | Extract CSS and build beautiful style guides |
+| [SVG Grab Pro](https://chromewebstore.google.com/detail/svg-grab-pro/dcojkoaanbhlnealhdcdjbcoaokkngch) | Easily grab SVG logos from any website |
+    - [GitHub](https://github.com/ash-uxi/svg-grab-pro) |
+| [Fonts Ninja](https://fonts.ninja) | Discover awesome typefaces and build your  font collection |
+| [ColorPick Eyedropper](https://chromewebstore.google.com/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) | A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more |
+| [Page Ruler](https://chromewebstore.google.com/detail/page-ruler/jcbmcnpepaddcedmjdcmhbekjhbfnlff) | Measure page elements size in pixel with an easy-to-use ruler |
+| [JSON Viewer Pro](https://chromewebstore.google.com/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc) | A completely free extension to visualize JSON response in awesome Tree and Chart view with great user experience and options |
     - [GitHub](https://github.com/rbrahul/Awesome-JSON-Viewer).
-- [html.to.design](https://chromewebstore.google.com/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed) | Convert any website into fully editable Figma designs.
-- [HTML to Figma](https://chromewebstore.google.com/detail/html-to-figma-by-builderi/efjcmgblfpkhbjpkpopkgeomfkokpaim) | Import a web page to Figma layers.
+| [html.to.design](https://chromewebstore.google.com/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed) | Convert any website into fully editable Figma designs |
+| [HTML to Figma](https://chromewebstore.google.com/detail/html-to-figma-by-builderi/efjcmgblfpkhbjpkpopkgeomfkokpaim) | Import a web page to Figma layers |
 
 ### Web Performance
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-|**[Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)** | Open-source, automated tool for improving the performance, quality, and correctness of your web apps |
-    - [GitHub](https://github.com/GoogleChrome/lighthouse).
+|**[Lighthouse](https://github.com/GoogleChrome/lighthouse)** | Open-source, automated tool for improving the performance, quality, and correctness of your web apps | <a href="https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
 ### Automating
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-| **[Automa](https://chromewebstore.google.com/detail/automa/infppggnoaenmfagbfknfkancpbljcca)** | An extension for automating your browser by connecting blocks |
+| **[Automa]()** | An extension for automating your browser by connecting blocks | <a href="https://chromewebstore.google.com/detail/automa/infppggnoaenmfagbfknfkancpbljcca"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
 ### Resources
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-| **[**Save All Resources](https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb)** | Save all resources files with retaining folder structure |
+| **[**Save All Resources]()** | Save all resources files with retaining folder structure | <a href="https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
 ### Social Media
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-| **[Code Blue](https://chromewebstore.google.com/detail/code-blue/mbjgnjfkngoogkgohnmbimnpdacdbghb)** | Syntax highlighting for code blocks on X/Twitter |
-| **[daily.dev](https://chromewebstore.google.com/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)** | Get one personalized feed for all the knowledge you need as a developer |
+| **[Code Blue]()** | Syntax highlighting for code blocks on X/Twitter | <a href="https://chromewebstore.google.com/detail/code-blue/mbjgnjfkngoogkgohnmbimnpdacdbghb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
+| **[daily.dev]()** | Get one personalized feed for all the knowledge you need as a developer | <a href="https://chromewebstore.google.com/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
 ### LLMs
 
@@ -334,7 +333,7 @@
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-- **[PreMID](https://chromewebstore.google.com/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)** | Discord Rich Presence |
+| **[PreMID](https://chromewebstore.google.com/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)** | Discord Rich Presence |
 
 ### Video
 
@@ -349,8 +348,8 @@
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-- **[OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)** | Save up to 95% memory and reduce tab clutter |
-- **[YouTube™ Focus Mode](https://chromewebstore.google.com/detail/youtube-focus-mode-study/fgdbgpogmjcfhbifhhongdeidnnmnadb)** | Study & Work Without Distractions |
+| **[OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)** | Save up to 95% memory and reduce tab clutter |
+| **[YouTube™ Focus Mode](https://chromewebstore.google.com/detail/youtube-focus-mode-study/fgdbgpogmjcfhbifhhongdeidnnmnadb)** | Study & Work Without Distractions |
 
 ### Notes
 
@@ -370,23 +369,23 @@
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-| **[BetterTTV](https://chromewebstore.google.com/detail/betterttv/ajopnjidmegmdimjlfnijceegpefgped)** | Enhances Twitch and YouTube with new features, emotes, and more |
+| **[BetterTTV](https://chromewebstore.google.com/detail/betterttv/ajopnjidmegmdimjlfnijceegpefgped)** | Enhances Twitch and YouTube with new features, emotes, and more | |
 
 ### Shopping
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-- **[Moon](https://chromewebstore.google.com/detail/moon-shop-online-with-bit/ehmpejjklcibliopgbghpgfinhbjopnn)** | Shop online with Bitcoin, Litecoin, Ethereum and Bitcoin Cash!
-- **[Reclame AQUI](https://chromewebstore.google.com/detail/reclame-aqui/fhamhppabjaafimidmelnmpfangjdnhj)** | Te dá reputação, indicadores de marcas, cupons de desconto e reviews verdadeiros para tornar sua compra mais segura |
+| **[Moon](https://chromewebstore.google.com/detail/moon-shop-online-with-bit/ehmpejjklcibliopgbghpgfinhbjopnn)** | Shop online with Bitcoin, Litecoin, Ethereum and Bitcoin Cash | |
+| **[Reclame AQUI](https://chromewebstore.google.com/detail/reclame-aqui/fhamhppabjaafimidmelnmpfangjdnhj)** | Te dá reputação, indicadores de marcas, cupons de desconto e reviews verdadeiros para tornar sua compra mais segura | |
 
 ### Wallet
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-- **[MetaMask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)** | Access Ethereum enabled distributed applications, or "Dapps" in your browser |
+| **[MetaMask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)** | Access Ethereum enabled distributed applications, or "Dapps" in your browser | |
 
 ### Live Data
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-- **[Plus](https://chromewebstore.google.com/detail/plus-live-screenshots-of/bnebanooamokkihfjepphafoekheipfh)** | Live screenshots of any app or website |
+| **[Plus](https://chromewebstore.google.com/detail/plus-live-screenshots-of/bnebanooamokkihfjepphafoekheipfh)** | Live screenshots of any app or website | |
