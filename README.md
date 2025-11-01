@@ -228,8 +228,8 @@
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-- [AdSparo](https://chromewebstore.google.com/detail/adsparo-adlibrary-ad-find/jhgpmfdfgihdclapmppfeddggkidnoid) | AdLibrary Ad Finder & Ad spy Tool |
-- [AliPrice](https://chromewebstore.google.com/detail/rastreador-de-pre%C3%A7os-alip/haighbphebockaggfkllmmdpmgdhebme) | Price Tracker |
+| [AdSparo](https://chromewebstore.google.com/detail/adsparo-adlibrary-ad-find/jhgpmfdfgihdclapmppfeddggkidnoid) | AdLibrary Ad Finder & Ad spy Tool | |
+| [AliPrice](https://chromewebstore.google.com/detail/rastreador-de-pre%C3%A7os-alip/haighbphebockaggfkllmmdpmgdhebme) | Price Tracker | |
 
 ### Scraper
 
