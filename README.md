@@ -118,14 +118,13 @@
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-| **[Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)** | Open-source, automated tool for improving the performance, quality, and correctness of your web apps.
-    - [GitHub](https://github.com/GoogleChrome/lighthouse).
+| **[Lighthouse](https://github.com/GoogleChrome/lighthouse)** | Open-source, automated tool for improving the performance, quality, and correctness of your web apps | <a href="https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
 ### UX
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-| **[UX Check](https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp)** | Run a heuristic evaluation on your website.
+| **[UX Check]()** | Run a heuristic evaluation on your website | <a href="https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 | **[Grammarly](https://app.grammarly.com)** | Helps keep text content in good grammar, style, and tone | <a href="https://chromewebstore.google.com/detail/grammarly-ai-writing-assi/kbfnbcaeplbcioakkpcpgfkobkghlhen"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/grammarly-ai-writing-and/cnlefmmeadmemmdciolhbnfeacpdfbkd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> <a href="https://apps.apple.com/us/app/grammarly-ai-writing-keyboard/id1158877342"><img src="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/75.0.1/safari-ios/safari-ios_48x48.png" width="24" /></a> |
 
 ### Recording
@@ -323,9 +322,8 @@
 | **[FoxyProxy](https://chromewebstore.google.com/detail/foxyproxy/gcknhkkoolaabfmlnjonogaaifnjlfnp)** | Easy to use advanced Proxy Management tool for everyone |
 | **[Dr. Protect Cache History Cleaner](https://chromewebstore.google.com/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk)** | Clear your browser history, cache and cookies for Google Chrome in just one click |
 | **[HTTPS Everywhere](https://chromewebstore.google.com/detail/https-everywhere/ikclbgejgcbdlhjmckecmdljlpbhmbmf)** | Automatically redirect to HTTPS version of websites |
-| **[Opaque](https://chrome.google.com/webstore/detail/opaque/fkmddlioggaohebmgmmhjfapibidoicd)** | Securely blur sensitive text and values |
-    - [GitHub](https://github.com/OpaqueApp)
-| **[StoriesHub](https://chromewebstore.google.com/detail/storieshub/jpicbecmemdfmocdocikjbihejgkmnpi)** | Watch Lives and Stories anonymously. Record and download Lives. Upload photo and video to Stories |
+| **[Opaque](https://github.com/OpaqueApp)** | Securely blur sensitive text and values | <a href="https://chrome.google.com/webstore/detail/opaque/fkmddlioggaohebmgmmhjfapibidoicd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
+| **[StoriesHub]()** | Watch Lives and Stories anonymously. Record and download Lives. Upload photo and video to Stories | <a href="https://chromewebstore.google.com/detail/storieshub/jpicbecmemdfmocdocikjbihejgkmnpi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
 ## ✨ Others
 
@@ -333,7 +331,7 @@
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-| **[PreMID](https://chromewebstore.google.com/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)** | Discord Rich Presence |
+| **[PreMID]()** | Discord Rich Presence | <a href="https://chromewebstore.google.com/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
 ### Video
 
