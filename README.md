@@ -10,6 +10,10 @@
   *Elevate your Browser Experience*
 </div>
 
+### Summary
+
+[✨ Must Have](#must-have) • [✨ Design](#design) • [✨ Coding](#coding) • [✨ HR](#hr) • [✨ Marketing](#marketing) • [✨ Hacking](#hacking) • [✨ Others](#others)
+
 ## ✨ Must Have
 
 ### Passwords
