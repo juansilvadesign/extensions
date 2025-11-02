@@ -10,11 +10,13 @@
   *Elevate your Browser Experience*
 </div>
 
+---
+
 ### Summary
 
-[✨ Must Have](#must-have) • [✨ Design](#design) • [✨ Coding](#coding) • [✨ HR](#hr) • [✨ Marketing](#marketing) • [✨ Hacking](#hacking) • [✨ Others](#others)
+[🔥 Must Have](#must-have) • [🎨 Design](#design) • [💻 Coding](#coding) • [👥 HR](#hr) • [📣 Marketing](#marketing) • [🕵️‍♂️ Hacking](#hacking) • [✨ Others](#others)
 
-## ✨ Must Have
+## 🔥 Must Have
 
 ### Passwords
 
@@ -77,7 +79,7 @@
 |-----------|-------------|---------|
 | **[Save to Notion](https://www.savetonotion.so/)** | Save the Web to Notion | <a href="https://chromewebstore.google.com/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/save-to-notion/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/save-to-notion/mhbgebmjigmgkdmehblomgoappmeckfa"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
-## ✨ Design
+## 🎨 Design
 
 ### Images & Vectors
 
@@ -137,7 +139,7 @@
 |-----------|-------------|---------|
 | **[Loom](https://www.loom.com/download)** | Record and send someone a video recording (screen + speaker face) | <a href="https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/loom-screen-recorder/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> |
 
-## ✨ Coding
+## 💻 Coding
 
 ### Web Scraper
 
@@ -198,7 +200,7 @@
 |-----------|-------------|---------|
 | **[GitHub to Plain Text Converter]()** | Convert GitHub repositories to plain text files easily. Transform code into a single formatted text file | <a href="https://chromewebstore.google.com/detail/github-to-plain-text-conv/hlpgbhccolopnkhfkbfhiijclphbiooe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
-## ✨ HR
+## 👥 HR
 
 ### Contact
 
@@ -222,7 +224,7 @@
 | **[Off-line Google Docs](https://support.google.com/docs/answer/6388102?hl=en&co=GENIE.Platform%3DDesktop)** | Edit, create, and view your documents, spreadsheets, and presentations — all without internet access | <a href="https://chromewebstore.google.com/detail/documentos-google-off-lin/ghbmnnjooekpmoecnnnilnnbdlolhkhi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
 | **[Aiforsheet](https://aiforsheet.com/)** | Generate Excel Formulas and Google Sheet Formulas with AI | <a href="https://chromewebstore.google.com/detail/aiforsheet-generate-excel/koecmlomghhhjibekaaoianeobhdhold"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
 
-## ✨ Marketing
+## 📣 Marketing
 
 ### Ecom
 
@@ -267,7 +269,7 @@
 | **[Off-line Google Docs](https://support.google.com/docs/answer/6388102?hl=en&co=GENIE.Platform%3DDesktop)** | Edit, create, and view your documents, spreadsheets, and presentations — all without internet access | <a href="https://chromewebstore.google.com/detail/documentos-google-off-lin/ghbmnnjooekpmoecnnnilnnbdlolhkhi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
 | **[Aiforsheet](https://aiforsheet.com/)** | Generate Excel Formulas and Google Sheet Formulas with AI | <a href="https://chromewebstore.google.com/detail/aiforsheet-generate-excel/koecmlomghhhjibekaaoianeobhdhold"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
 
-## ✨ Hacking
+## 🕵️‍♂️ Hacking
 
 ### Bypass
 
