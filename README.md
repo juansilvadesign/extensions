@@ -79,6 +79,12 @@
 |-----------|-------------|---------|
 | **[Save to Notion](https://www.savetonotion.so/)** | Save the Web to Notion | <a href="https://chromewebstore.google.com/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/save-to-notion/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/save-to-notion/mhbgebmjigmgkdmehblomgoappmeckfa"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
+### Social Media
+
+| Extension | Description | Support |
+|-----------|-------------|---------|
+| **[News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator)** | Eradicate social media noise by replacing your entire news feed with an inspiring quote | <a href="https://chromewebstore.google.com/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/undistracted-hide-faceb/gglpoikaaoddcdmcadcgfomhbkiglbaf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
+
 ## 🎨 Design
 
 ### Images & Vectors
@@ -358,6 +364,7 @@
 |-----------|-------------|---------|
 | **[OneTab]()** | Save up to 95% memory and reduce tab clutter | <a href="https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 | **[YouTube™ Focus Mode]()** | Study & Work Without Distractions | <a href="https://chromewebstore.google.com/detail/youtube-focus-mode-study/fgdbgpogmjcfhbifhhongdeidnnmnadb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
+| **[QR Code Generator](https://high-qr-code-generator.com)** | A super handy QR Code Generator | <a href="https://chromewebstore.google.com/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
 ### Notes
 
