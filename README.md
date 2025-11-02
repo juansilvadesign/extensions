@@ -262,6 +262,12 @@
 | **[Não Seguidores]()** | Mostra quem não está te seguindo de volta no Instagram | <a href="https://chromewebstore.google.com/detail/n%C3%A3o-seguidores/ggnclhlkbhihgehcgmnckfgkjjkckbop"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 | **[StoriesHub]()** | Watch Lives and Stories anonymously. Record and download Lives. Upload photo and video to Stories | <a href="https://chromewebstore.google.com/detail/storieshub/jpicbecmemdfmocdocikjbihejgkmnpi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
 
+### SEO
+
+| Extension | Description | Support |
+|-----------|-------------|---------|
+| **[SEOquake](https://www.seoquake.com/)** | Audit any page in seconds. Spot SEO issues, boost rankings, and beat your competitors. Powered by real-time Semrush data | <a href="http://chromewebstore.google.com/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
+
 ### Files
 
 | Extension | Description | Support |
