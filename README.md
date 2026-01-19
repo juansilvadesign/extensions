@@ -257,7 +257,9 @@
 
 | Extension | Description | Support |
 |-----------|-------------|---------|
-| **[Bulk Sender]()** | Free WA Sender Plugin | <a href="https://chromewebstore.google.com/detail/bulk-sender-free-wa-sende/fhkimgpddcmnleeaicdjggpedegolbkb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
+| **[MMZap](https://growsoft.io)** | Maturador Mútuo para aquecimento | <a href="https://chromewebstore.google.com/detail/mmzap-maturador-m%C3%BAtuo-par/dbogohdpdjiogkibmneanejjcbcdplfd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
+| **[WaSender](https://wasender.com)** | Send Bulk WhatsApp to multiple contacts in 3 simple steps | <a href="https://chromewebstore.google.com/detail/wasender-free-bulk-messag/heogilejknffekkbjdjmoamaehdblmnc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
+| **[Bulk Sender](https://wawebsender.com/en)** | Free WA Sender Plugin | <a href="https://chromewebstore.google.com/detail/bulk-sender-free-wa-sende/fhkimgpddcmnleeaicdjggpedegolbkb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
 
 ### Resources
 
