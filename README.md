@@ -279,6 +279,7 @@
 | Extension | Description | Support |
 |-----------|-------------|---------|
 | **[SEOquake](https://www.seoquake.com/)** | Audit any page in seconds. Spot SEO issues, boost rankings, and beat your competitors. Powered by real-time Semrush data | <a href="http://chromewebstore.google.com/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href=""><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> |
+| **[Detailed SEO](https://detailed.com/extension/)** | Get SEO insights. Pull back their title tag, meta description, meta robots tag, and much more | <a href="https://chromewebstore.google.com/detail/detailed-seo-extension/pfjdepjjfjjahkjfpkcgfmfhmnakjfba?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/detailed-seo-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> |
 
 ### Files
 
